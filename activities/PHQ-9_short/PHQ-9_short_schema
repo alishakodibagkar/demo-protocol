@@ -81,14 +81,35 @@
 		  "allow": [
                     "reproschema:Skipped"
                 ]
+            },
+            {
+                "isAbout": "items/phq9_6",
+                "variableName": "phq9_6",
+                "valueRequired": true,
+                "isVis": true, 
+		  "allow": [
+                    "reproschema:Skipped"
+                ]
+            },
+            {
+                "isAbout": "items/phq9_7",
+                "variableName": "phq9_7",
+                "valueRequired": true,
+                "isVis": true, 
+		  "allow": [
+                    "reproschema:Skipped"
+                ]
             }
+	
         ],
         "order": [
             "items/phq9_1",
             "items/phq9_2",
 	    "items/phq9_3",
             "items/phq9_4",
-            "items/phq9_5"
+            "items/phq9_5",
+	    "items/phq9_6",
+            "items/phq9_7"
         ],
         "shuffle": false,
 	"allow": [
