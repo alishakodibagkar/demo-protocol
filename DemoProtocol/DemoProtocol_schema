@@ -47,7 +47,7 @@
             "prefLabel": {"en": "Voice Activity" }
             },
 	    {"isAbout": "../activities/PHQ-9_short/PHQ-9_short_schema",
-	    "variableName": "PHQ-9_schema",
+	    "variableName": "PHQ-9_short_schema",
             "prefLabel": {"en": "PHQ-9 Assessment Short" }
             },
 	    {"isAbout": "../activities/PHQ-9/PHQ-9_schema",
