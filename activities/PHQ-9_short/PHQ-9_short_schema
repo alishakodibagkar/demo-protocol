@@ -66,6 +66,7 @@
                 "variableName": "phq9_4",
                 "valueRequired": true,
                 "isVis": true
+            },
             {
                 "isAbout": "items/phq9_5",
                 "variableName": "phq9_5",
