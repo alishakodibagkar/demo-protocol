@@ -49,6 +49,7 @@
 	    {"isAbout": "../activities/PHQ-9/PHQ-9_schema",
 	    "variableName": "PHQ-9_schema",
             "prefLabel": {"en": "Mental Health Test" }
+            }
         ],
     "order": [
 	    "../activities/Activity1/activity1_schema",
