@@ -120,6 +120,10 @@
             "items/phq9_9",
             "items/phq9_10"
         ],
-        "shuffle": false
+        "shuffle": false,
+	"allow": [
+			"reproschema:AutoAdvance",
+			"reproschema:AllowExport"
+		]
     }
 }
