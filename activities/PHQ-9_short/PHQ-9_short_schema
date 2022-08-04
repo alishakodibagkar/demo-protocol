@@ -89,7 +89,7 @@
                 "isAbout": "items/phq9_8",
                 "variableName": "phq9_8",
                 "valueRequired": true,
-                "isVis": true,
+                "isVis": true
             },
             {
                 "isAbout": "items/phq9_9",
