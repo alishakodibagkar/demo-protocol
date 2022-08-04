@@ -45,7 +45,10 @@
             {"isAbout": "../activities/voiceActivity/voiceActivity_schema",
             "variableName": "voiceActivity_schema",
             "prefLabel": {"en": "Voice Activity" }
-            }
+            },
+	    {"isAbout": "../activities/PHQ-9/PHQ-9_schema",
+	    "variableName": "PHQ-9_schema",
+            "prefLabel": {"en": "Mental Health Test" }
         ],
     "order": [
 	    "../activities/Activity1/activity1_schema",
@@ -54,6 +57,7 @@
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema"
+            "../activities/PHQ-9/PHQ-9_schema"
         ],
 		"shuffle": false,
 		"allow": [
