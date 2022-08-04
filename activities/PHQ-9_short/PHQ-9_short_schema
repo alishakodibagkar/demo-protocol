@@ -50,7 +50,8 @@
                 "isAbout": "items/phq9_2",
                 "variableName": "phq9_2",
                 "valueRequired": true,
-                "isVis": true, "allow": [
+                "isVis": true, 
+		  "allow": [
                     "reproschema:Skipped"
                 ]
             }
