@@ -46,6 +46,10 @@
             "variableName": "voiceActivity_schema",
             "prefLabel": {"en": "Voice Activity" }
             },
+	    {"isAbout": "../activities/PHQ-9_short/PHQ-9_short_schema",
+	    "variableName": "PHQ-9_schema",
+            "prefLabel": {"en": "PHQ-9 Assessment Short" }
+            },
 	    {"isAbout": "../activities/PHQ-9/PHQ-9_schema",
 	    "variableName": "PHQ-9_schema",
             "prefLabel": {"en": "PHQ-9 Assessment" }
@@ -58,6 +62,7 @@
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema",
+	    "../activities/PHQ-9_short/PHQ-9_short_schema"
             "../activities/PHQ-9/PHQ-9_schema"
         ],
 		"shuffle": false
