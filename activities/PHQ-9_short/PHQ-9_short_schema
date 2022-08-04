@@ -56,8 +56,8 @@
                 ]
             },
             {
-                "isAbout": "items/phq9_2",
-                "variableName": "phq9_2",
+                "isAbout": "items/phq9_3",
+                "variableName": "phq9_3",
                 "valueRequired": true,
                 "isVis": true, 
 		  "allow": [
