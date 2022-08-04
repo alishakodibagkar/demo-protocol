@@ -56,7 +56,7 @@
             "../activities/Activity3/Activity3_schema",
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
-            "../activities/Activity4/Activity4_schema"
+            "../activities/Activity4/Activity4_schema",
             "../activities/PHQ-9/PHQ-9_schema"
         ],
 		"shuffle": false,
