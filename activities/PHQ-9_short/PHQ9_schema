@@ -45,7 +45,7 @@
             }
         ],
         "order": [
-            "items/phq9_1",
+            "items/phq9_1"
         ],
         "shuffle": false
     }
